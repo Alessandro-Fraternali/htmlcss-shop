@@ -1,0 +1,16 @@
+#i1 {
+  position: relative;
+}
+#i2 {
+  position: relative;
+}
+#i3 {
+  position: relative;
+}
+.sconti {
+    background-color: green;
+    width: 35px;
+    height: 18px;
+    position: absolute;
+    right:0px;
+}
