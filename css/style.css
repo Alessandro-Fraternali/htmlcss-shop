@@ -21,3 +21,12 @@
     position: absolute;
     right:4px;
 }
+#pref {
+  width: 24px;
+  position: absolute;
+  left: 50%;
+  bottom: 4px;
+}
+#pref :hover{
+  display: 
+}
