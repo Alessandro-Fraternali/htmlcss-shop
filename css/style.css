@@ -7,6 +7,9 @@
 #i3 {
   position: relative;
 }
+#riga1 {
+  padding-bottom: 15px;
+}
 .sconto30 {
     background-color: green;
     width: 35px;
@@ -22,7 +25,7 @@
     right:4px;
 }
 #pref {
-  width: 24px;
+  width: 23px;
   position: absolute;
   left: 50%;
   bottom: 4px;
@@ -36,4 +39,9 @@
 }
 #i3:hover #pref{
   display: block;
+}
+em {
+  position: absolute;
+  left: 376px;
+  bottom: 170px;
 }
